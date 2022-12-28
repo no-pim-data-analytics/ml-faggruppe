@@ -1,0 +1,6 @@
+{
+  "image": "mcr.microsoft.com/vscode/devcontainers/python:3",
+  "features": {
+    
+  },"postCreateCommand": "pip3 install --user ipykernel numpy pandas matplotlib keras or-tools sklearn scipy seaborn"
+}
