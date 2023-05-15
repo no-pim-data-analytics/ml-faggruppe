@@ -1,4 +1,4 @@
-numpy==1.23 # used for the actual model code/weights
+numpy==1.23.0 # used for the actual model code/weights
 regex==2023.3.23 # used by the bpe tokenizer
 requests==2.27.1 # used to download gpt-2 files from openai
 tqdm==4.64.0 # progress bar to keep your sanity
