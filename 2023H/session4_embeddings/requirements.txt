@@ -1,0 +1,8 @@
+pgvector
+psycopg2-binary
+sentence-transformers
+matplotlib
+scikit-learn
+pandas==1.5.3
+numpy~=1.24.1
+rich~=13.6.0
