@@ -1,4 +1,4 @@
-# Introduction to Data Processing With R and Python
+# Introduction to Data Processing With Python
 
 These are notes, data, examples, exercises, and solutions for the course **Introduction to Data Processing With Python (pandas)**.
 
